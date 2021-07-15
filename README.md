@@ -18,5 +18,8 @@ openzui前端：http://www.openzui.com/
 
 ### 图片集
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0715/182636_c1445e2b_4803184.png "屏幕截图.png")
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0715/182703_2981fdba_4803184.png "屏幕截图.png")
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0715/182724_e56fc153_4803184.png "屏幕截图.png")
+
