@@ -4,12 +4,14 @@ Simpost是由开发者pengzekai独自开发的一个开源的轻文章系统，�
 
 目前实现的功能有：登录，注册，发帖，用户评论，帖子ID控制，用户权限，金币设置，Markdown文章编辑器，移动端适配，前端markdown解释，用户注册统计，不完整的后台等功能。
 
-**使用到的项目**
+### 使用到的项目
 
 sweetalert弹窗：https://sweetalert.bootcss.com/
 markdown编辑器：https://pandao.github.io/editor.md/
 Strapdown.js解释器：https://github.com/arturadib/strapdown/
 jquery前端：https://jquery.com/
 openzui前端：http://www.openzui.com/
+
+### 捐赠
 
 如果你觉得对你有帮助的话可以考虑捐赠作者，谢谢！
