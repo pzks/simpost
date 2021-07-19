@@ -10,11 +10,11 @@ Simpost是由开发者pengzekai独自开发的一个开源的轻文章系统，�
 
 ### 使用到的项目
 
-sweetalert弹窗：https://sweetalert.bootcss.com/
-markdown编辑器：https://pandao.github.io/editor.md/
-Strapdown.js解释器：https://github.com/arturadib/strapdown/
-jquery前端：https://jquery.com/
-openzui前端：http://www.openzui.com/
+#### sweetalert弹窗：https://sweetalert.bootcss.com/
+#### markdown编辑器：https://pandao.github.io/editor.md/
+#### Strapdown.js解释器：https://github.com/arturadib/strapdown/
+#### jquery前端：https://jquery.com/
+#### openzui前端：http://www.openzui.com/
 
 ### 捐赠
 
